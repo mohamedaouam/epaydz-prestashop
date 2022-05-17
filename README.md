@@ -3,6 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
+## ⚠️ this module is in testing phase | ce module est en phase de test 
+
 > Chargily ePay Gateway (PrestaShop Module)
 
 this module will integrate the Chargily epay gatway on your prestashop website. 
